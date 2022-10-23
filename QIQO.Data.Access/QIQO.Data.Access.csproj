@@ -8,6 +8,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\QIQO.Business.Core\QIQO.Business.Core.csproj" />
 		<ProjectReference Include="..\QIQO.Code.Generator\QIQO.Code.Generator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
 	</ItemGroup>
 

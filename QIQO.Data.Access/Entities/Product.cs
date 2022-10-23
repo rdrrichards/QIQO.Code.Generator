@@ -1,5 +1,5 @@
 ﻿
-namespace QIQO.Data.Access.Entities
+namespace QIQO.Data.Access
 {
     public class Product
     {
